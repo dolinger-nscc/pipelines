@@ -4,4 +4,6 @@ This project will illustrate using [Pycaret 3](https://pycaret.org/) to develop 
 ## Plan:
 The intent of the project is to create a methodoligy for incorporting an AutoML technology, in this case Pycaret 3, into a training vehicle for "Citizen Data Scientists". 
 
+## Data:  
+
 
