@@ -1,2 +1,2 @@
-# pipelines
-Using Pycaret3 to create pipelines, then recreate using EDA in Pandas and modeling in scikit-learn
+# Pycaret 3 Pipelines to Scikit-Learn Pipelines  
+This project will illustrate using [Pycaret 3](https://pycaret.org/) to develop a predictive model pipline and then recreate with scikit-learn. 
