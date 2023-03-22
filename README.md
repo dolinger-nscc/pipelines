@@ -8,6 +8,9 @@ The intent of the project is to demonstrate a methodology for incorporating an A
 Data used within the examples will include:
 * the Palmer Penguins dataset as sourced from Allison Horst's GitHub repository.
 
+## .ipynb
+The notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/dolinger-nscc/pipelines/blob/main/Notebooks/Classification_Penguins.ipynb).
+
 
 
 
