@@ -11,6 +11,9 @@ Data used within the examples will include:
 ## .ipynb
 The notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/dolinger-nscc/pipelines/blob/main/Notebooks/Classification_Penguins.ipynb).
 
+## Method:
+Detail my steps.. 
+
 
 
 
